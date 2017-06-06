@@ -1,0 +1,8 @@
+---
+layout: post
+title: Test
+date: 2016-06-04
+image: /assets/images/2016/11/Nanodegree.png
+---
+
+This is a test.
